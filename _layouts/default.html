@@ -18,9 +18,9 @@
 
 	<!-- CSS
   ================================================== -->
-	<link rel="stylesheet" href="stylesheets/base.css">
-	<link rel="stylesheet" href="stylesheets/skeleton.css">
-	<link rel="stylesheet" href="stylesheets/layout.css">
+	<link rel="stylesheet" href="/stylesheets/base.css">
+	<link rel="stylesheet" href="/stylesheets/skeleton.css">
+	<link rel="stylesheet" href="/stylesheets/layout.css">
 
   <style>
     body,h1,h2,h3,h4,h5,h6 {
@@ -34,6 +34,9 @@
     }
     hr {
       margin-bottom: 15px;
+    }
+    h2 a:link {
+      text-decoration: none;
     }
   </style>
 
@@ -62,10 +65,8 @@
   <div class="container">
     <div class="three columns">&nbsp;</div>
     <div class="ten columns">
-      <h2 style="margin-top: 20px;">Alex Kroman</h2>
-      <ul>
-        <li>I could always add some text here.</li>
-      </ul>
+      <h2 style="margin-top: 20px;"><a href="/">Alex Kroman</a></h2>
+      <hr />
       {{ content }}
       <hr />
       <div style="font-size:12px;margin-bottom:20px;">

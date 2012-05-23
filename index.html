@@ -6,9 +6,9 @@ description: Recruit, schedule and retain your volunteers with our volunteer man
 ---
 <h4>Writings</h4>
 <ul>
-  <li><span style="color:#333;">06 jun 2012</a> &nbsp;&raquo;&nbsp; <a href="#">This is some title for some blog post that I could write but I didn't at some point this entire title will wrap and I would very much like to see that</a></li>
-  <li><span style="color:#333;">06 jun 2012</a> &nbsp;&raquo;&nbsp; <a href="#">This is some title for some blog post that I could write but I didn't at some point this entire title will wrap and I would very much like to see that</a></li>
-  <li><span style="color:#333;">06 jun 2012</a> &nbsp;&raquo;&nbsp; <a href="#">This is some title for some blog post that I could write but I didn't at some point this entire title will wrap and I would very much like to see that</a></li>
+  {% for post in site.posts %}
+  <li><span style="color:#333;">{{ post.date | date_to_string }}</a> &nbsp;&raquo;&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
 </ul>
 <h4>Projects</h4>
 <ul>
