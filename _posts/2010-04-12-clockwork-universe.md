@@ -2,6 +2,8 @@
 layout: post 
 title: A Clockwork Universe and the Strike at Watertown Arsenal 
 --- 
+![taylor](/images/taylor.jpeg)
+
 In 1908 Frederick Taylor (years before publishing his famous
 book “The Principles of Scientific Management”) began studying workers
 at an arsenal in Watertown, Massachusetts.  
@@ -33,6 +35,7 @@ exiled to an arsenal in a western frontier town but managed to build an
 even grander mansion just a few years later.
 
 ####Slide Rules and Stop Watches
+![house](/images/house.jpeg)
 
 Frederick Taylor came to Watertown with a stop watch and slide rule to
 measure the way workers performed tasks on the factory floor.  Why was
@@ -51,6 +54,8 @@ wrote “This we believe to be the limit of our endurance.  It is
 humiliating to us, who have always tried to give the government the best
 that was in us.  This method is un-American”.  Taylor had designed the
 perfect system for making guns but the system was shutting down. 
+
+![sweatshop](/images/sweatshop.jpeg)
 
 The strike at Watertown turned into a congressional hearing on the
 practices that Taylor was starting to spread.  A few months later Taylor

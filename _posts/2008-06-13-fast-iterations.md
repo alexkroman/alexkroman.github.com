@@ -2,6 +2,8 @@
 layout: post
 title: Fast Iterations and How Napoleon Managed the French Army
 ---
+![Napoloeon](/images/napoleon.jpg)
+
 The armies of the late 1700’s would have looked familiar to Julius
 Caesar.  Thousands of men marching down roads in thin columns with
 hundreds of supply wagons following behind.  The wagons were unable to
@@ -18,6 +20,8 @@ commanded the forces from the back of the battlefield with scouts in the
 front closely observing enemy movements. The scouts would carry
 information back to the generals, who would make decisions and send
 their orders back to the front.
+
+![Waterloo](/images/waterloo.jpg)
 
 These tactics led to long, drawn out battles with enormous casualties on
 both sides. Often the “victor” would be too demoralized to pursue the
@@ -39,6 +43,7 @@ entire city and forcing the British to evacuate.  After this victory he
 was given control of the French army in Italy.  He was only 24 years
 old.
 
+![Ulm](/images/ulm.jpg)
 
 ####A More Nimble Army
 
@@ -53,6 +58,8 @@ objectives outlined by Napoleon.  Napoleon replicated this
 decentralization into the rest of the division and allowed Lieutenants
 and Sergeants complete control over even smaller groups of men as long
 as their actions were aligned with the field marshal.
+
+![Horse](/images/horse.jpg)
 
 ####Using the Backpack
 
@@ -74,6 +81,8 @@ decision making loop with a general in the back of the field -- all
 decisions were made by the commanders in the unit who had the best
 perspective on the battle. Napoleon learned how to shorten his OODA loop
 and gain a huge advantage over his competitors.
+
+![battle](/images/battle.jpg)
 
 ####Battle of Ulm
 
