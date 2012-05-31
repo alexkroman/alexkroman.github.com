@@ -14,18 +14,13 @@
 	<link rel="stylesheet" href="/stylesheets/layout.css">
   <style>
     body {
-      margin-top: 10px;
-    }
-    body,h1,h2,h3,h4,h5,h6 {
-      font-family: Georgia, Times, "Times New Roman", serif;
-    }
-    li {
-      margin-bottom: 20px;
+      margin-top:30px;
     }
     hr {
-      margin-bottom: 15px;
+      margin-bottom: 20px;
     }
-    h4 a:link {
+    h2 a:link {
+      text-decoration: none;
     }
     .footer {
       font-size: 12px;
@@ -42,12 +37,30 @@
 	<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png">
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-173596-4']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+
+  </script>
 </head>
 <body>
   <div class="container">
     <div class="three columns">&nbsp;</div>
     <div class="ten columns">
-      <h4><a href="/">Alex Kroman</a></h4>
+      <div class="four columns">
+      <h2><a href="/">Alex Kroman</a></h2>
+    </div>
+    <div class="one column" style="margin-top:10px;">
+      <a href="/" style="font-weight:bold;">home</a>
+    </div>
       <hr />
       <h4>Writings</h4>
 <ul>
@@ -62,21 +75,20 @@
 <h4>Projects</h4>
 <ul>
   <li><a href="http://volunteersurge.com/">Volunteer Surge</a>&nbsp;&raquo;&nbsp; Schedule, recruit and manage volunteers at your non-profit.</li> 
-  <li><a href="http://pdxfixed.com/">PDXFixed</a>&nbsp;&raquo;&nbsp; Social network for Portland, OR cycling enthusiasts.</li>
+  <li><a href="http://pdxfixed.com/">PDXFixed</a>&nbsp;&raquo;&nbsp; Social network for cycling enthusiasts in Portland, OR.</li>
   <li><a href="http://screener.heroku.com/">Screener</a>&nbsp;&raquo;&nbsp; One click screen sharing and voice conferencing.</li>
 </ul>
 
       <hr />
       <div class="footer">
-        <a href="#">Twitter</a>
+        Alex Kroman &middot;
+        <a href="http://twitter.com/alexkroman">Twitter</a>
         &middot;
-        <a href="#">Github</a>
+        <a href="http://github.com/alexkroman">Github</a>
         &middot;
-        <a href="#">LinkedIn</a>
+        <a href="http://www.linkedin.com/in/alexkroman">LinkedIn</a>
         &middot;
-        <a href="#">Email</a>
-        &middot;
-        <a href="#">RSS</a>
+        <a href="/atom.xml">RSS</a>
       </div>
     </div>
     <div class="three columns">&nbsp;</div>
